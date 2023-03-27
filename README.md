@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1><strong> Mario Minhava <strong></h1>
+<h3> Hello, I'm Mario, I'm studying computer science, at FCUP in Porto 👾</h3>
 
 <!--
 **Mariola04/Mariola04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
