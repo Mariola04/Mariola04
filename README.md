@@ -1,10 +1,10 @@
 # About Me
 
-Hello there! My name is Mário Minhava and I'm Studuing in Porto, Portugal.
+Hello there! My name is Mário Minhava and I'm studying in Porto, Portugal.
 
 ## Education
 
-🎓 I am currently taking my bachelor's on computer Science at FCUP.
+🎓 I am currently taking my bachelor's on Computer Science at FCUP.
 
 ## Stats
 
@@ -19,7 +19,6 @@ Hello there! My name is Mário Minhava and I'm Studuing in Porto, Portugal.
 <div align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="haskell" width="40" height="40"/> </a>
-  <a href="https://www.learn-c.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/C/C-original.svg" alt="C" width="40" height="40"/> </a>
   <a href="https://jupyter.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql logo" width="40" height="40"/> </a>
