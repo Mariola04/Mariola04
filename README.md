@@ -27,4 +27,8 @@ Hello there! My name is Mário Minhava and I'm studying in Porto, Portugal.
   <a href="https://www.pandas.pydata.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <a href="https://https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/1280px-scikit-learn-logo.png" height="40" alt="scikit-learn logo"  />    
 </div>
+
+## Where can you find me
+
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/m%C3%A1rio-minhava-b49840262/)
   
