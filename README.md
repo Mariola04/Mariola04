@@ -1,9 +1,9 @@
 <h1 align="leftr">Hi 👋, I'm Mário Minhava</h1>
 <h3 align="left">🎓 I am currently taking my bachelor's on Computer Science at FCUP.</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1kHEgewyUp-ttr19nwwZ7nUUfCEwfYsJE3w&s"
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1kHEgewyUp-ttr19nwwZ7nUUfCEwfYsJE3w&s">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariola04&label=Profile%20views&color=0e75b6&style=flat" alt="mariola04" /> </p>
 
-## How to reach me
+How to reach me
 📫  **mariominhava@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
