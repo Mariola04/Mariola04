@@ -1,27 +1,18 @@
 # About Me
 
-Hello there! My name is Sebastião Santos Lessa and I'm from Porto, Portugal.
+Hello there! My name is Mário Minhava and I'm Studuing in Porto, Portugal.
 
 ## Education
 
-🎓 I am currently pursuing a degree in Artificial Intelligence and Data Science at Faculdade de Ciências da Universidade do Porto.
-
-## Terminal and Shell Theme
-
-🖥️ For my command-line interface (CLI), I prefer using the [*hyper*](https://github.com/vercel/hyper) terminal with the *zsh* shell. It offers a great user experience and makes my development workflow more efficient. With the [PowerLevel10k](https://github.com/romkatv/powerlevel10k) theme.
-
-
-
-| Configurations:         | [hyper.js](.hyper.js) | [zshrc](.zshrc) | [p10k.zsh](.p10k.zsh) |
-|------------------------|-----------------------|-----------------|-----------------------|
+🎓 I am currently taking my bachelor's on computer Science at FCUP.
 
 ## Stats
 
-<img src="https://komarev.com/ghpvc/?username=Seblessa&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=MAriola04&style=flat-square&color=blue" alt=""/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Seblessa&exclude_repo=Seblessa&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="Seblessa" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mariola04&exclude_repo=Mariola04&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="Mariola04" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Seblessa&show_icons=true&locale=en" alt="Seblessa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mariola04&show_icons=true&locale=en" alt="Mario" /></p>
 
 ## Languages and Tools
 
