@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Mário Minhava</h1>
 <h3 align="left">🎓 I am currently taking my bachelor's on Computer Science at FCUP.</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/hacker-hacker-man-hacking-hackers-hack-gif-23864910">
+<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariola04&label=Profile%20views&color=0e75b6&style=flat" alt="mariola04" /> </p>
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **Scala**
 
 - 📫 How to reach me **mariominhava@gmail.com**
 
